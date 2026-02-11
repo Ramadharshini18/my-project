@@ -1,0 +1,2 @@
+This file demonstrates basic Git version control operations
+Initial commit : Added project description
